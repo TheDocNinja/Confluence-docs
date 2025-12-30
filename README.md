@@ -3,7 +3,7 @@
 A beginner-friendly documentation website built using MkDocs and hosted on GitHub Pages.
 
 ## Live Site
-https://thedocninja.github.io/confluence-docs/
+https://TheDocNinja.github.io/Confluence-docs/
 
 ## Tech Stack
 - MkDocs
