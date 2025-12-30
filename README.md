@@ -1,14 +1,50 @@
-# Guide to Using Confluence 📘
+# Portfolio Project #1 – Documentation Website
 
-A beginner-friendly documentation website built using MkDocs and hosted on GitHub Pages.
+## Guide to Using Confluence 📘
 
-## Live Site
+A beginner-friendly documentation website that explains how to use Confluence effectively.  
+This project demonstrates technical documentation skills, static site generation, and deployment using GitHub Pages.
+
+---
+
+## 🌐 Live Site
 https://TheDocNinja.github.io/Confluence-docs/
 
-## Tech Stack
-- MkDocs
-- Material Theme
-- GitHub Pages
+---
 
-## Purpose
-Portfolio Project #1 – Documentation Website
+## 🛠️ Tech Stack
+- MkDocs – Static site generator for documentation
+- MkDocs Material Theme – UI and navigation
+- Markdown – Content authoring
+- Git & GitHub – Version control
+- GitHub Pages – Hosting and deployment
+
+---
+
+## 🎯 Project Purpose
+This project was created as **Portfolio Project #1** to showcase:
+- Clear and structured technical documentation
+- Multi-page navigation and organization
+- Static website deployment using GitHub Pages
+
+---
+
+## 📌 Key Features
+- Clean and readable documentation layout
+- Sidebar navigation with multiple sections
+- Beginner-friendly explanations
+- Responsive design using Material theme
+
+---
+
+## 📂 Repository Structure
+```text
+.
+├── docs/
+│   ├── index.md
+│   ├── getting-started.md
+│   ├── pages.md
+│   ├── spaces.md
+│   └── faq.md
+├── mkdocs.yml
+└── README.md
