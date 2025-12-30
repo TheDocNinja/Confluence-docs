@@ -1,0 +1,15 @@
+site_name: Guide to Using Confluence
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Pages: pages.md
+  - Spaces: spaces.md
+  - FAQ: faq.md
+
